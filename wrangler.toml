@@ -1,3 +1,3 @@
 name = "tlk-worker"
 main = "index.js"        # your worker file
-compatibility_date = "2025-09-20"  # or today's date
+compatibility_date = "2025-09-19"  # or today's date
