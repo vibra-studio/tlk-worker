@@ -4,7 +4,7 @@ addEventListener('fetch', event => {
 
 async function handleRequest(request) {
   const url = new URL(request.url)
-  const path = url.searchParams.get('path') // e.g., movie/popular
+  const path = url.searchParams.get('path') // e.g., movie/popula
   const language = url.searchParams.get('language') || 'en'
   const page = url.searchParams.get('page') || 1
 
