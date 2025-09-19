@@ -1,3 +1,4 @@
 name = "tlk-worker"
-main = "index.js"
-compatibility_date = "2025-09-19"
+main = "index.js"       # this should match your worker file
+compatibility_date = "2025-09-20"
+type = "javascript"
